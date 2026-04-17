@@ -1,7 +1,7 @@
 # Docker Tinyproxy ![alt text](https://raw.githubusercontent.com/daniel-middleton/docker-tinyproxy/master/other/banu_logo.png "Banu!")
 A quick and easy Dockerised Tinyproxy with configurable ACL.
 
-Find it on [GitHub](https://github.com/monokal/docker-tinyproxy).
+Find it on [GitHub](https://github.com/doitky/docker-tinyproxy).
 
 Find it on [DockerHub](https://hub.docker.com/repository/docker/monokal/tinyproxy).
 
